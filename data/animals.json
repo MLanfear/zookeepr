@@ -135,6 +135,13 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "Monkey",
+      "species": "Ape",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "14"
     }
   ]
 }

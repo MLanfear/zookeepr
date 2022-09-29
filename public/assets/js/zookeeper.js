@@ -20,7 +20,7 @@ const printResults = resultArr => {
   $displayArea.innerHTML = animalHTML.join('');
 };
 
-const getZookeepers = () => {
+const getZookeeper = () => {
   fetch('/api/zookeepers')
     .then(response => {
       if (!response.ok) {
@@ -34,4 +34,4 @@ const getZookeepers = () => {
     });
 };
 
-getZookeepers();
+getZookeeper();

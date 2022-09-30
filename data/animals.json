@@ -99,6 +99,15 @@
       "personalityTraits": [
         "hungry"
       ]
+    },
+    {
+      "name": "Monkey",
+      "species": "Ape",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "10"
     }
   ]
 }
